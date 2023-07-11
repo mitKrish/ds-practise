@@ -1,3 +1,10 @@
+// save initial value and pointer
+// if current and next values are equal, continue
+// if current value > value
+//      increment pointer
+//      insert current value in pointed index.
+//      update current value as value.     
+
 var removeDuplicates = function(nums) {
     
     let val = nums[0];
